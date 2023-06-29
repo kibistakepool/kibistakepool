@@ -3,6 +3,6 @@
 "ticker":"KIBI",
 "discordId":"579586996205387776",
 "pool-list":"true",
-"poolMetaData":"https://kibistakepool.github.io/kibistakepool/poolMetaData.json",
+"poolMetaData":"https://raw.githubusercontent.com/kibistakepool/kibistakepool/main/poolMetaData.json",
 "validation":"https://raw.githubusercontent.com/kibistakepool/kibistakepool/main/sjg-validation.json"
 }
